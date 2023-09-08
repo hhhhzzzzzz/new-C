@@ -1,2 +1,2 @@
-﻿  1-1.cpp
-  test.vcxproj -> F:\硬盘\c语言\c++\test\x64\Debug\test.exe
+﻿D:\Program Files\vs2022\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: “link.exe”已退出，代码为 1168。
+LINK : fatal error LNK1168: 无法打开 F:\硬盘\c语言\c++\new-c\test\x64\Debug\test.exe 进行写入
